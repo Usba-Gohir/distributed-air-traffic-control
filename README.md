@@ -191,12 +191,6 @@ If all runways are busy:
 
 ---
 
-## 👨‍💻 Authors
-
-- **Engineered by:** _Your Name Here_
-- **Course:** COE892 – Distributed Systems
-- **Instructor:** _Your Professor’s Name_
-- **Institution:** _Your University_
 
 ---
 
